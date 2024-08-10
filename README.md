@@ -9,3 +9,5 @@
 
 # Demo Travel Features section -carousel :
 [Live preview](https://abdalkadersaado.github.io/Images-Carousel-and-Slider/Travel%20Features%20section%20-carousel/)
+# Demo Travel Features section -carousel :
+[Live preview](https://abdalkadersaado.github.io/Images-Carousel-and-Slider/cart-with-detail/)
