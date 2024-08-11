@@ -15,7 +15,5 @@
 # Demo Cart With Detail :
 [Live preview](https://abdalkadersaado.github.io/Images-Carousel-and-Slider/cart-with-detail/)
 
-# Demo landing-oage-Image-Slider :
-[Live preview](https://abdalkadersaado.github.io/Images-Carousel-and-Slider/landing-oage-Image-Slider)
 
 
